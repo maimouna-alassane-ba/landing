@@ -1,0 +1,18 @@
+.btn-pink {
+    display: inline-block;
+    background-color: #d85a7d;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    opacity: 1;
+    margin: 20px;
+
+
+}
+
+.btn-intro:hover {
+    background-color: #a05344;
+}
